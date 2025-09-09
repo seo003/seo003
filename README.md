@@ -1,4 +1,6 @@
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=seo003's Github&height=230"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=seo003%27s%20Github&height=230"/>
+</p>
 
 <h2 align="center">🛠️ Skill Stack</h3>
 <p align="center">
