@@ -29,6 +29,11 @@
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
 </p>
 
+<h2 align="center">👩‍💻 Top Languages</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seo003&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
 <h2 align="center">📊 Git Status</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=seo003&show_icons=true&theme=radical"/>
@@ -39,7 +44,4 @@
  <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=sy030212&cacheBust=1731162000" alt="Solved.ac Tier" />
 </p>
 
-<h2 align="center">👩‍💻 Top Languages</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seo003&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
+
